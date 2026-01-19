@@ -1,1 +1,1 @@
-This will be the file that stores object files.
+This will be the directory that stores object files.

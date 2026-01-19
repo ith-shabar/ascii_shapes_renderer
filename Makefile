@@ -1,5 +1,5 @@
 CC := gcc
-EXECUTABLE := donutplus
+EXECUTABLE := ascii_shapes_renderer
 
 SOURCEDIR := src/
 INCLUDEDIR := src/

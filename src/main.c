@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
 
     } else {
         printf("Enter valid argument!\n\n");
-        printf("donutplus <OPTION> \nOPTION = donut, sphere, cube \n");
+        printf("ascii_shapes_renderer <OPTION> \nOPTION = donut, sphere, cube \n");
     }
 
 
